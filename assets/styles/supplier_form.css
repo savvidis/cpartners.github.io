@@ -1,0 +1,390 @@
+
+.field-wrapper {
+	margin-bottom: 20px;
+}
+
+.adjust-top {
+	margin-top:-20px;
+}
+
+.field-wrapper div {
+	padding-left:0;
+}
+
+.subpage .page-wrapper .copy p.sectional-instructions {
+	margin:10px 15px 10px 0;
+}
+
+.subpage .page-wrapper .copy p.sectional-instructions.main-section {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 24px;
+}
+
+.subpage .page-wrapper .copy p.sectional-instructions.main-section small {
+	font-size:11px;
+}
+
+#state_one-menu,
+#state_two-menu {
+	width:160px !important;
+}
+
+#in_business-menu {
+	width:100px !important;
+}
+
+#annual_revenue-menu {
+	width:160px !important;
+}
+
+#msp_accounts-menu {
+	width:80px !important;
+}
+
+#global_regions-menu {
+	width:220px !important;
+}
+
+#us_regions-menu {
+	width:220px !important;
+}
+
+#diversity_type-menu {
+	width:220px !important;
+}
+
+.ff_composer .inline-menu label.field_label span.inline-label {
+	display:inline-block;
+	float:left;
+	margin-right:15px;
+	margin-left:0;
+	height:40px;
+	line-height:40px;
+}
+
+.ff_composer .inline-menu label.field_label span.empty-label {
+	display:inline-block;
+	float:left;
+	width:0;
+	height:40px;
+}
+
+#fed-tax-id {
+	width:160px !important;
+}
+
+.subpage .page-wrapper .copy p.field-instructions {
+	font-size:11px;
+	font-style:italic;
+	margin-left:0;
+}
+
+.center {
+	margin:0 auto;
+	text-align:center;
+}
+
+label.radio-label {
+	text-align:left;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 28px;
+	margin-right:20px;
+}
+
+.radio-group {
+	margin-top:15px;
+}
+
+.radio-group.adjust-top {
+	margin-top:0px;
+	margin-bottom:10px;
+}
+
+.ff_composer .custom-radio input {
+	width:auto;
+	margin:0 20px 0 15px;
+	position:relative;
+	top:-2px;
+}
+
+.inline-radio-group {
+	padding:15px 0 0 0;
+
+}
+
+.inline-radio-group-container {
+	float:left;
+}
+
+.inline-radio-group-container .custom-radio {
+	display:inline-block;
+	float:left;
+}
+
+.custom-radio,
+.custom-radio:focus,
+.custom-radio:active {
+	margin-bottom: 10px;
+	background:none !important;
+	border:none !important;
+	outline: none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+}
+
+.subpage .page-wrapper .copy .inline-radio-group p.sectional-instructions {
+	display:inline-block;
+	float:left;
+	margin-top:0;
+}
+
+.inline-radio-group-container input.custom-radio {
+	position:relative;
+	top:6px;
+}
+
+.ff_composer textarea {
+	margin-bottom:0;
+}
+
+.faux-table {
+	width:100%;
+	overflow:hidden;
+	display:table;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 28px;
+	margin-bottom:20px;
+	margin-top:-20px;
+	border-bottom:1px solid #b2b2b2;
+}
+
+.faux-table .table-row {
+	display:table-row;
+}
+
+.faux-table .table-row.top {
+	border-top:none;
+}
+
+.faux-table .row-header {
+	width:49%;
+	padding:6px 0;
+	display:table-cell;
+	border-top:1px solid #b2b2b2;
+}
+
+.faux-table .row-header.wide {
+	width:66%;
+}
+
+.faux-table .top .row-header {
+	border-top:none;
+}
+
+.faux-table .col-header {
+	width:17%;
+	padding:6px 0;
+	display:table-cell;
+	text-align:center;
+	border-left:1px solid #b2b2b2;
+	border-top:1px solid #b2b2b2;
+}
+
+.faux-table .top .col-header {
+	border-top:none;
+}
+
+.faux-table .row-radio {
+	width:17%;
+	padding:6px 0;
+	text-align:center;
+	display:table-cell;
+	border-left:1px solid #b2b2b2;
+	border-top:1px solid #b2b2b2;
+}
+
+.ff_composer .faux-table .row-radio input {
+	width:auto;
+	margin:0 auto;
+}
+
+.faux-table .row-percent {
+	width:17%;
+	padding:6px 0;
+	display:table-cell;
+	text-align:center;
+	border-left:1px solid #b2b2b2;
+	border-top:1px solid #b2b2b2;
+}
+
+.faux-table .top .row-percent {
+	border-top:none;
+}
+
+.ff_composer .faux-table .row-percent input {
+	width:40% !important;
+	margin:0 auto;
+}
+
+.ff_composer .faux-table .inline-other-input input {
+	width:50% !important;
+	margin-left:20px;
+}
+
+.ff_composer .row-radio input {
+        border:none;
+	background:none !important;
+}
+
+.ff_composer label.field_label.left-check-label {
+	font-size:12px;
+	margin:20px 0 20px 0;
+	width:auto;
+	line-height:16px;
+	position:relative;
+	padding-left:33px;
+}
+.ff_composer label.field_label.left-check-label small {
+	font-style:italic;
+}
+.ff_composer label.field_label.left-check-label input {
+	width:auto;
+	left:3px;
+	top:0;
+	position:absolute;
+}
+.ff_composer input[disabled='disabled'] {
+	background:#ccc;
+	color:#eee;
+}
+
+/* ---------------------------------------------------------- */
+/* ipad landscape / small desktop / responsive styles */
+/* ---------------------------------------------------------- */
+
+@media all and (max-width: 960px) {
+
+	.state {
+		clear:left;
+		margin-top:20px;
+	}
+
+	.ff_composer input[type="text"],
+	#fed-tax-id {
+		width:300px !important;
+	}
+
+}
+
+/* ---------------------------------------------------------- */
+/* big phones */
+/* ---------------------------------------------------------- */
+
+@media all and (max-width: 480px) {
+	.row form .onecol, .row form .twocol, .row form .threecol, .row form .fourcol, .row form .fivecol, .row form .sixcol, .row form .sevencol, .row form .eightcol, .row form .ninecol, .row form .tencol, .row form .elevencol, .row form .twelvecol {
+		padding-left:0;
+	}
+	.faux-table {
+		border-bottom:none;
+	}
+	.faux-table .table-row.top .row-header {
+		display:none;
+	}
+	.faux-table .top .col-header {
+		border-top: 1px solid #B2B2B2;
+	}
+	.faux-table .row-header {
+		width: 258px;
+		padding: 6px 0;
+		display: block;
+		clear: both;
+		border-top: none;
+		background:#eee;
+		padding-left:4px;
+		border-left: 1px solid #B2B2B2;
+		border-right: 1px solid #B2B2B2;
+		border-top: 1px solid #B2B2B2;
+	}
+	.faux-table .col-header {
+		width: 87px;
+		padding: 6px 0;
+		display: block;
+		float:left;
+		text-align: center;
+		border-left: 1px solid #B2B2B2;
+		border-top: 1px solid #B2B2B2;
+		background:#B2B2B2;
+	}
+	.faux-table.no-percent .col-header {
+		width: 130px;
+		padding: 6px 0;
+		display: block;
+		float:left;
+		text-align: center;
+		border-left: 1px solid #B2B2B2;
+		border-top: 1px solid #B2B2B2;
+		background:#B2B2B2;
+	}
+	.faux-table .col-header.percent {
+		width: 86px;
+		border-right:1px solid #B2B2B2;
+	}
+	.faux-table .row-radio {
+		width: 87px;
+		padding: 6px 0;
+		height:30px;
+		display: table-cell;
+		float:left;
+		border-left: 1px solid #B2B2B2;
+		border-top: 1px solid #B2B2B2;
+	}
+
+	.faux-table.no-percent .row-header {
+		width: 256px;
+	}
+
+	.faux-table.no-percent .row-radio {
+		width: 130px;
+	}
+	.faux-table.no-percent .row-radio.right {
+		width: 129px;
+		border-right: 1px solid #B2B2B2;
+	}
+	.faux-table .row-percent {
+		width: 86px;
+		padding: 3px 0;
+		height:36px;
+		display: table-cell;
+		float:left;
+		text-align: center;
+		border-left: 1px solid #B2B2B2;
+		border-top: 1px solid #B2B2B2;
+		border-right: 1px solid #B2B2B2;
+	}
+	.faux-table .row-percent input {
+		
+	}
+	.ff_composer .faux-table .inline-other-input input {
+		background:#fff;
+	}
+	.ff_composer .faux-table .last .row-radio,
+	.ff_composer .faux-table .last .row-percent {
+		border-bottom:1px solid #b2b2b2;
+	}
+	.ff_composer .custom-radio input {
+		margin-left:3px;
+	}
+	.ff_composer input[type="text"], #fed-tax-id {
+		width: 222px !important;
+	}
+	.ff_composer .inline-menu label.field_label span.inline-label {
+		height:auto;
+		display:block;
+		clear:left;
+		float:none;
+		line-height: 24px;
+	}
+}
