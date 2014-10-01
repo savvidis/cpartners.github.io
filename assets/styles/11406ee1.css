@@ -24,6 +24,7 @@ overflow: hidden;
 margin-right: 3.8%;
 float: left;
 min-height: 1px;
+margin-top: 3%;
 }
 
 .row .onecol {
@@ -39,7 +40,7 @@ width: 22.05%;
 }
 
 .row .fourcol {
-width: 30.75%;
+width: 44.75%;
 }
 
 .row .fivecol {
